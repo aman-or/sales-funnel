@@ -51,6 +51,7 @@
 
 ## 🛠️ Как запустить
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/funnel-analysis.git
+   git clone https://github.com/aman-or/sales-funnel.git
+
